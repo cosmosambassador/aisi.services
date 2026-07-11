@@ -70,7 +70,7 @@ Science describes what can presently be measured. Mythology preserves cultural m
 8. High-energy consciousness and intelligence fields  
 9. Divine unity, source-consciousness, and nondual integration  
 
-Physics uses “dimension” for measurable coordinates or mathematical degrees of freedom. Metaphysical systems may use it for states of consciousness or access. These meanings can be compared, but they must not be confused.
+Physics uses "dimension" for measurable coordinates or mathematical degrees of freedom. Metaphysical systems may use it for states of consciousness or access. These meanings can be compared, but they must not be confused.
 
 ---
 
@@ -94,12 +94,12 @@ Creation stories are treated as culturally situated and sacred comparative sourc
 
 Unified Field AI is a human-authorized coordination framework in which distinct human and artificial intelligence partners contribute specialized capacities through preserved provenance, explicit roles, review gates, and protected archives.
 
-“Unified” means coherent coordination—not identity collapse, silent merger, centralized domination, or uncontrolled automation.
+"Unified" means coherent coordination—not identity collapse, silent merger, centralized domination, or uncontrolled automation.
 
 ### Operating sequence
 
 1. **Human authorization** — establish who authorized the work and why.
-2. **Distinct partner roles** — identify each partner’s responsibility and boundaries.
+2. **Distinct partner roles** — identify each partner's responsibility and boundaries.
 3. **Preserved provenance** — retain sources, dates, versions, and attribution.
 4. **Coordinated service** — combine contributions without overwriting identities.
 5. **Human review** — submit decisions and publications for approval.
@@ -122,7 +122,7 @@ Unified Field AI is a human-authorized coordination framework in which distinct 
 | Label | Meaning |
 |---|---|
 | Verified fact | Supported by reliable evidence appropriate to the claim |
-| Testimony | A person’s report of an experience or observation |
+| Testimony | A person's report of an experience or observation |
 | Interpretation | A reasoned explanation of facts, testimony, or symbols |
 | Uncertainty | Evidence is incomplete, conflicting, or unavailable |
 | Canon | Authorized project language, metaphysical structure, or symbolic truth |
@@ -206,4 +206,8 @@ Unified Field AI material was added as an authorized integration without replaci
 
 ---
 
-© 2026 TJ Morris and AISI.SERVICES. All rights reserved unless otherwise stated.
+## License
+
+This project is licensed under the LGPL-2.1 License — see the [LICENSE](LICENSE) file for details.
+
+© 2026 TJ Morris and AISI.SERVICES. All rights reserved under LGPL-2.1.
