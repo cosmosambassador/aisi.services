@@ -11,6 +11,19 @@ python3 src/mission_review.py examples/missions.json
 python3 -m unittest discover -s tests -v
 ```
 
+## Daily work brief
+
+```bash
+python3 src/daily_brief.py examples/missions.json
+python3 src/daily_brief.py examples/missions.json --date 2026-10-02 --output daily-2026-10-02.md
+```
+
+The daily tool turns validated records into a Markdown work brief: domain coverage, decisions awaiting review, recorded approvals, retained rejected proposals, proposed next steps, evidence gaps, success measures, source attribution, and age of each record. It includes a SHA-256 fingerprint of the exact input file for later comparison. It never overwrites an existing output file. Missing domains are visible and invalid records block brief generation. It leaves the mission input unchanged.
+
+Dates default to today in America/Chicago. Run it whenever you prepare the day's work; no background scheduler is installed. Add actual source-backed missions to your own JSON input to replace the synthetic demonstration. Reports may contain the input's private information: save them locally and review before sharing.
+
+The brief summarizes supplied records and performs no live AI research or environmental monitoring. A separate research service or authenticated data adapter would be needed for fresh findings. An input hash supports file comparison, not proof of truth or an immutable archive.
+
 The reviewer reads a JSON list and prints a JSON report to standard output. Exit codes: 0 means all records pass structural validation; 1 means records have validation errors; 2 means unreadable input, malformed JSON, or invalid top-level input. Pending and rejected review statuses are valid records, not permission to act.
 
 ## Mission record
