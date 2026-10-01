@@ -1,0 +1,82 @@
+[
+  {
+    "id": "LSAS-DEMO-LAND",
+    "domain": "land",
+    "purpose": "Compare habitat and soil observations",
+    "recorded_at": "2026-10-01T10:00:00-05:00",
+    "evidence_kind": "simulation",
+    "sources": [
+      {
+        "reference": "synthetic://lsas-demo/land",
+        "attribution": "AISI.SERVICES synthetic example; no environmental measurement",
+        "retrieved_at": "2026-10-01T10:00:00-05:00"
+      }
+    ],
+    "uncertainty": "Synthetic scenario only. No field data or real-world outcome has been verified.",
+    "proposed_action": "Prepare a research plan for human review.",
+    "success_measure": "Agreement with independently checked field samples",
+    "human_review": {
+      "status": "pending"
+    }
+  },
+  {
+    "id": "LSAS-DEMO-SEA",
+    "domain": "sea",
+    "purpose": "Organize coastal pollution observations",
+    "recorded_at": "2026-10-01T10:00:00-05:00",
+    "evidence_kind": "simulation",
+    "sources": [
+      {
+        "reference": "synthetic://lsas-demo/sea",
+        "attribution": "AISI.SERVICES synthetic example; no environmental measurement",
+        "retrieved_at": "2026-10-01T10:00:00-05:00"
+      }
+    ],
+    "uncertainty": "Synthetic scenario only. No field data or real-world outcome has been verified.",
+    "proposed_action": "Prepare a research plan for human review.",
+    "success_measure": "Confirmed observations with traceable sample records",
+    "human_review": {
+      "status": "pending"
+    }
+  },
+  {
+    "id": "LSAS-DEMO-AIR",
+    "domain": "air",
+    "purpose": "Compare air-quality observations",
+    "recorded_at": "2026-10-01T10:00:00-05:00",
+    "evidence_kind": "simulation",
+    "sources": [
+      {
+        "reference": "synthetic://lsas-demo/air",
+        "attribution": "AISI.SERVICES synthetic example; no environmental measurement",
+        "retrieved_at": "2026-10-01T10:00:00-05:00"
+      }
+    ],
+    "uncertainty": "Synthetic scenario only. No field data or real-world outcome has been verified.",
+    "proposed_action": "Prepare a research plan for human review.",
+    "success_measure": "Error against independent reference instruments",
+    "human_review": {
+      "status": "pending"
+    }
+  },
+  {
+    "id": "LSAS-DEMO-SPACE",
+    "domain": "space",
+    "purpose": "Organize Earth-observation evidence",
+    "recorded_at": "2026-10-01T10:00:00-05:00",
+    "evidence_kind": "simulation",
+    "sources": [
+      {
+        "reference": "synthetic://lsas-demo/space",
+        "attribution": "AISI.SERVICES synthetic example; no environmental measurement",
+        "retrieved_at": "2026-10-01T10:00:00-05:00"
+      }
+    ],
+    "uncertainty": "Synthetic scenario only. No field data or real-world outcome has been verified.",
+    "proposed_action": "Prepare a research plan for human review.",
+    "success_measure": "Checked imagery timestamps and geolocation",
+    "human_review": {
+      "status": "pending"
+    }
+  }
+]
