@@ -210,4 +210,4 @@ Unified Field AI material was added as an authorized integration without replaci
 
 This project is licensed under the LGPL-2.1 License — see the [LICENSE](LICENSE) file for details.
 
-© 2026 TJ Morris and AISI.SERVICES. All rights reserved under LGPL-2.1.
+© 2026 TJ Morris and AISI.SERVICES. All rights reserved under LGPL-2.1.https://github.com/cosmosambassador/World-Information-Network
