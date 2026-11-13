@@ -1,0 +1,6 @@
+name = "aisi-services"
+main = "aisiworker.js"
+compatibility_date = "2026-11-13"
+
+[vars]
+SITE_TITLE = "AISI Services"
